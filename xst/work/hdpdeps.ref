@@ -1,0 +1,7 @@
+V3 3
+FL //psf/home/Documents/sd/neander/counter.vhd 2017/05/14.22:41:03 P.20131013
+EN work/counter 1494813004 FL //psf/home/Documents/sd/neander/counter.vhd \
+      PB ieee/NUMERIC_STD 1381692181 PB ieee/std_logic_1164 1381692176 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/counter/Behavioral 1494813005 \
+      FL //psf/home/Documents/sd/neander/counter.vhd EN work/counter 1494813004

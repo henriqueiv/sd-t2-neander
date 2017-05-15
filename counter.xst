@@ -1,0 +1,5 @@
+set -tmpdir "Y:/Documents/sd/neander/xst/projnav.tmp"
+set -xsthdpdir "Y:/Documents/sd/neander/xst"
+elaborate
+-ifn counter.prj
+-ifmt mixed
